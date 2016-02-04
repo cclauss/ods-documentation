@@ -14,4 +14,5 @@ Welcome to OpenDataSoft documentation!
    theme/index
    api/index
    apiv2/index
+   billing/index
    faq
