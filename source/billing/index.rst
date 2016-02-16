@@ -11,5 +11,5 @@ Billing & organizations
    intro
    organizations
    payment_methods
-   billing_plans
+   plans
    subscriptions

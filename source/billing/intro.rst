@@ -84,10 +84,10 @@ which you'll be able to find real counterparts in your country : the National Co
 agency operating on a regional level.
 
 The National Company Register is the national agency responsible for keeping the books on all new company
-registrations. They currently compile and release (every other month) as open data the list of new registrations
+registrations. They currently compile and release (every 6 months) as open data the list of new registrations
 complete with company names, addresses, registration dates and legal statuses. They want to put resources behind the
 data team so that they can publish up-to-date data on a daily basis. These additional resources come at a cost and
 they'd like this new process to generate revenue. Their goal is to have :
 
-* a free, bi-monthly release of all data, useful for citizens, researchers, political instances etc...
+* a free, bi-annual release of all data, useful for citizens, researchers, political instances etc...
 * a daily release of all data accessible through subscriptions, one for each region, especially relevant to marketers.
