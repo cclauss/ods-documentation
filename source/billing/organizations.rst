@@ -16,6 +16,10 @@ organizations are available from all domains on the OpenDataSoft platform, provi
 feature activated (if they don't then organizations do no have any purpose). If the domain has the billing feature,
 you'll see the organization link right next to your profile link in the menu.
 
+.. note::
+   While we plan on opening organizations to anybody, at the moment only domain administrators can create organizations.
+   These organizations will be available throughout the platform though and not just on the domain it has been created.
+
 Under the *New organization* section you'll find a form requesting a name, description and contact email address.
 Though you can already add members, it is not required. You will be automatically added to the organization as
 administrator.
@@ -62,8 +66,16 @@ full-fledged account on Stripe's platform, you'll retain full control over all o
 
    Stripe's account form
 
-.. todo: plans and revenue
+Plans and revenue
+^^^^^^^^^^^^^^^^^
 
+Once you've connected a bank account to your organization, you'll see a new section bearing the name of your merchant
+account on your organization's page. If you expand this new section, you'll see a summary of all the active plans
+linked to the merchant account, the related subscribers (if there are any) and the global revenue generated.
+
+.. figure:: organizations__plans-revenue--en.png
+
+   The plans and revenue subscription after the creation of our first plan (see :doc:`plans`).
 
 Payment methods
 ---------------
@@ -80,7 +92,7 @@ The authorized members will then be able to use these credit cards to subscribe 
 Subscriptions
 -------------
 
-.. todo: subscriptions
+Your organization's page also has a subscription sections that lists all active and cancelled subscriptions. This is
+where you'll be able to retrieve your invoices.
 
-
-
+For more information, see the dedicated :doc:`subscriptions` page.
