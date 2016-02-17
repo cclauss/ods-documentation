@@ -13,8 +13,8 @@ Concepts
 
 On the platform, the billing revolves around 4 key concepts, **organizations**, **payment methods**, **plans** and
 **subscriptions**, organized as such: members of organizations that have the required permissions can setup paid plans
-on their datasets that other organizations and users will be able to subscribe to using their own payment methods
-(credit cards).
+on their datasets that members other organizations and standard users will be able to subscribe to using their own
+payment methods (credit cards).
 
 Organizations
 ^^^^^^^^^^^^^
@@ -46,7 +46,8 @@ All members of an organization also get access to all the datasets and plans the
 Payment methods
 ^^^^^^^^^^^^^^^
 
-The platform currently only supports credit cards as payment methods. The two terms are therefore equivalent.
+The platform currently only supports credit cards as payment methods. Both *credit card* and *payment method* are
+therefore used interchangeably in this documentation.
 
 Plans
 ^^^^^
@@ -63,9 +64,10 @@ a bank account connected).
 Subscriptions
 ^^^^^^^^^^^^^
 
-In order to subscribe to a plan, both users and organizations will need to define a credit card in their profile.
+In order to subscribe to a plan, you will need a credit card. Organization members will have to define one within the
+organization's page, and standard users will have to define one within their profile page.
 
-Organization members subscribing to a plan using one the organization's payment methods will share their subscription
+Organization members subscribing to a plan using one of the organization's payment methods will share their subscription
 with all of the other members.
 
 

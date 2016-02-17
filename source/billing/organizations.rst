@@ -6,7 +6,7 @@ Organizations
    take part in this beta, drop us an email at `support@opendatasoft.com <support@opendatasoft.com>`_.
 
 
-When working with the billing feature of the OpenDataSoft platform, the first step is always to create an organization.
+When using the billing feature of the OpenDataSoft platform, the first step is always to create an organization.
 
 Creating an organization
 ------------------------
@@ -18,7 +18,8 @@ you'll see the organization link right next to your profile link in the menu.
 
 .. note::
    While we plan on opening organizations to anybody, at the moment only domain administrators can create organizations.
-   These organizations will be available throughout the platform though and not just on the domain it has been created.
+   These organizations are not limited to the domain they were created on though, they will be accessible on any domain
+   of the OpenDataSoft's network that has the billing feature activated.
 
 Under the *New organization* section you'll find a form requesting a name, description and contact email address.
 Though you can already add members, it is not required. You will be automatically added to the organization as
@@ -30,7 +31,7 @@ administrator.
 Once you submit the form, you'll be taken to a new page dedicated to your new organization. Since you're the
 administrator you'll be able to edit the organization's properties (name, description, contact email),
 manage the members, connect a merchant account, connect credit cards and follow both your organization's subscriptions
-and other people's subscriptions to the plans your organization created.
+and plans (you'll be available to see subscriptions to your plans and the revenue they generate).
 
 .. image:: organizations__organization-management--en.png
    :alt: The newly created organization

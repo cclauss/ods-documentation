@@ -79,7 +79,7 @@ set up for the organization, which means that users will be able to reply and em
 Managing subscribers
 ^^^^^^^^^^^^^^^^^^^^
 
-In this tab you'll be able to subscribe users and organizations to the plan as well as cancelling existing
+In this tab you'll be able to manually subscribe users and organizations to the plan as well as cancelling existing
 subscriptions. These two features exist primarily to provide a way to handle payments out of the platform. If
 for example you are used to working with a given organization and that you want to give them access to a plan within a
 package of services you're billing out of the platform, this is the way to go.
@@ -89,7 +89,7 @@ package of services you're billing out of the platform, this is the way to go.
 
 You should be especially careful when cancelling subscriptions. You can cancel any active subscription, but should
 really only do so for subscriptions that you created with this form. You can tell apart the two kinds of
-subscriptions using the *payment method* mention on the subscriber card.
+subscriptions by looking at the *payment method* mention on the subscriber card.
 
 .. figure:: plans__edit-plan-manage-subscriber--en.png
 
